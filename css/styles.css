@@ -1,0 +1,39 @@
+body{
+	background-color: #00fc6d;
+	word-wrap: break-word;
+	text-align: center;
+	font-family: Architects Daughter
+}
+
+#header{
+	font-size: 50px;
+}
+
+#conePic{
+	height: 216px; 
+	width: 233px;
+}
+
+#docCakeFTW{
+	height: 216px; 
+	width: 233px;
+	}
+
+#pandaPng{
+	height: 216px;
+	width: 233px;
+}
+
+.all{
+	display: inline-block;
+	margin: 45px 45px 45px 45px;
+	width: 450px;
+}
+
+.all:nth-child(even){
+	background-color: #8cffbd;
+}
+
+.all:nth-child(odd){
+	background-color: #42f48f;
+}
